@@ -17,11 +17,11 @@ Hello, this is my career repo. There is a lot of my career projects compilation 
 
 | Semester |
 | -------- |
-| [1st Semester](1.%20Primer%20Semestre/) |
-| [2nd Semester](2.%20Segundo%20Semestre/) |
-| [3rd Semester](3.%20Tercer%20Semestre/) |
-| [4th Semester](4.%20Cuarto%20Semestre/) |
-| [5th Semester](5.%20Quinto%20Semestre/) |
-| [6th Semester](6.%20Sexto%20Semestre/) |
-| [7th Semester](7.%20Septimo%20Semestre/) |
-| [8th Semester](8.%20Octavo%20Semestre/) |
+| [1st Semester](1.%20First%20Semester/) |
+| [2nd Semester](2.%20Second%20Semester/) |
+| [3rd Semester](3.%20Third%20Semester/) |
+| [4th Semester](4.%20Fourth%20Semester/) |
+| [5th Semester](5.%20Fifth%20Semester/) |
+| [6th Semester](6.%20Sixth%20Semester/) |
+| [7th Semester](7.%20Seventh%20Semester/) |
+| [8th Semester](8.%20Eigth%20Semester/) |

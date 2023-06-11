@@ -7,9 +7,9 @@
 
 David Emmanuel Nicolas Castañeda
 
-[Twitter](twitter.com/davidenicolasc)
+[Twitter](https://www.twitter.com/davidenicolasc)
 
-[GitHub](github.com/DavidENicolasC)
+[GitHub](https://www.github.com/DavidENicolasC)
 
 ---
 

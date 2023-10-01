@@ -1,7 +1,7 @@
 > # Computer Engineering
 > # :mortar_board: ESIME Culhuacan - Instituto Politecnico Nacional, Mexico
 
-This is my university projects repository for recruiters.
+### This is my university projects repository for recruiters.
 
 ### Final Projects
 ||
@@ -16,7 +16,7 @@ This is my university projects repository for recruiters.
 | [5th Semester](5.FifthSemester/) | [6th Semester](6.SixthSemester/) | [7th Semester](7.SeventhSemester/) | [8th Semester](8.EigthSemester/) |
 ||
 
----
+# Contact to
 ## David Emmanuel Nicolas Castañeda
-## [:email: davidenicolasc@gmail.com](mailto:davidenicolasc@gmail.com) [:globe_with_meridians: davidenicolasc](https://www.linkedin.com/in/davidenicolasc)
----
+[:email: davidenicolasc@gmail.com](mailto:davidenicolasc@gmail.com)   [:globe_with_meridians: davidenicolasc](https://www.linkedin.com/in/davidenicolasc)
+-

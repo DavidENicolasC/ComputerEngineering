@@ -1,7 +1,7 @@
 > # Computer Engineering
 > # :mortar_board: ESIME Culhuacan - Instituto Politecnico Nacional, Mexico
 
-This is my university projects compilation for recruiters.
+This is my university projects repository for recruiters.
 
 ### Final Projects
 ||

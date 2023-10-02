@@ -12,8 +12,8 @@ Final Projects
 Works by Semester
 ||||
 |-|-|-|
-| [1st Semester](1.FirstSemester/) | [2nd Semester](2.SecondSemester/) | [3rd Semester](3.ThirdSemester/) | [4th Semester](4.FourthSemester/) |
-| [5th Semester](5.FifthSemester/) | [6th Semester](6.SixthSemester/) |
+| [1st Semester](1.FirstSemester/) | [2nd Semester](2.SecondSemester/) | [3rd Semester](3.ThirdSemester/) |
+| [4th Semester](4.FourthSemester/) | [5th Semester](5.FifthSemester/) | [6th Semester](6.SixthSemester/) |
 ||
 
 # Contact to

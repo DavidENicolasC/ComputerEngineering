@@ -6,18 +6,18 @@ This is my university projects repository for recruiters.
 Final Projects
 ||
 |-|
-[Scholar Admin System(C/C++)](Projects/ScholarAdminSystem/)
+Scholar Admin System([C/C++](Projects/ScholarAdminSystem/))
+Scholar Material Lab Control System([C/C++](Projects/MaterialLabControlSys/ArduinoCode/codigo_esp32), [PHP](Projects/MaterialLabControlSys/PHPScripts/prestamo_proyecto))
 ||
 
 Works by Semester
-||||
-|-|-|-|
-| [1st Semester](1.FirstSemester/) | [2nd Semester](2.SecondSemester/) | [3rd Semester](3.ThirdSemester/) |
-| [4th Semester](4.FourthSemester/) | [5th Semester](5.FifthSemester/) | [6th Semester](6.SixthSemester/) |
-||
+|||||||
+|-|-|-|-|-|-|
+| [1st](1.FirstSemester/) Semester | [2nd](2.SecondSemester/) Semester | [3rd](3.ThirdSemester/) Semester | [4th](4.FourthSemester/) Semester | [5th](5.FifthSemester/) Semester | [6th](6.SixthSemester/) Semester |
+|||||||
 
-# Contact to
-David Emmanuel Nicolas Castañeda
+# Contact
+<font size="5">David Emmanuel Nicolas Castañeda</font>
 
-[:email: davidenicolasc@gmail.com](mailto:davidenicolasc@gmail.com)   [:globe_with_meridians: davidenicolasc](https://www.linkedin.com/in/davidenicolasc)
+[:email: davidenicolasc@gmail.com](mailto:davidenicolasc@gmail.com)
 -
